@@ -61,7 +61,7 @@ ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py world:={и
 
 Моя квратира прикреплена в директории tutorials, название: flat2_world_test.sdf
 
-Пример квартиры 
+Пример получившейся квартиры в этой же папке, название: flat_visual.png 
 
    
 
